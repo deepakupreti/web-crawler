@@ -31,7 +31,6 @@ public class CrawlerController {
         this.crawlerServiceImpl = crawlerServiceImpl;
         this.crawlerResponseServiceImpl = crawlerResponseServiceImpl;
         this.crawlerStatusServiceImpl = crawlerStatusServiceImpl;
-
     }
 
 
